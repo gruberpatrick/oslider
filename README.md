@@ -43,7 +43,7 @@ Sample HTML structure:
         Content Slide 2
       &lt;/li&gt;
     &lt;/ul&gt;
-    &lt;span id="simplePrevious"&gt;&nbsp;&lt;/span&gt;&lt;span id="simpleNext"&gt;&nbsp;&lt;/span&gt;
+    &lt;span id="simplePrevious"&gt;Previous&lt;/span&gt;&lt;span id="simpleNext"&gt;Next&lt;/span&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 </pre>
