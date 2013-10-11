@@ -31,3 +31,20 @@ For now, there are 4 basic Parameters, that can be changed:
 <li><strong>"stopauto" (boolean)</strong>, if set to true, the slider stops when the NEXT or PREVIOUS button is clicked</li>
 </ol>
 </p>
+<p>
+Sample HTML structure:
+<pre>
+&lt;div id="o_imageflow_inner"&gt;
+    &lt;ul&gt;
+      &lt;li&gt;
+        Content Slide 1
+      &lt;/li&gt;
+      &lt;li&gt;
+        Content Slide 2
+      &lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;span id="simplePrevious"&gt;&nbsp;&lt;/span&gt;&lt;span id="simpleNext"&gt;&nbsp;&lt;/span&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</pre>
+</p>
