@@ -6,6 +6,7 @@
  * 
  * @author Patrick Gruber
  * @extends jquery
+ * @url https://github.com/gruberpatrick/oslider/
  *
  */
 
